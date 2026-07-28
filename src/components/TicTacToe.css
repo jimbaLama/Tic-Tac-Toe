@@ -45,3 +45,7 @@
     width: 564px;
     margin: auto;
 }
+
+.boxes img {
+    padding: 20px;
+}
